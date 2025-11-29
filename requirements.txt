@@ -1,0 +1,11 @@
+notebook
+ipykernel
+datasets
+huggingface_hub
+ujson
+pandas
+matplotlib
+seaborn
+transformers
+tqdm
+torch --index-url https://download.pytorch.org/whl/cpu
