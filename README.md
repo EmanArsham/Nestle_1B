@@ -17,7 +17,6 @@
 | Name | GitHub | Contributions |
 |---|---|---|
 | Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment analysis (BERT model) & visualization |
-| Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment analysis (BERT model) & visualization |
 
 
 ## Project Highlights
