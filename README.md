@@ -18,6 +18,7 @@
 |---|---|---|
 | Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment analysis (BERT model) & visualization |
 | Eman Arsham | [EmanArsham](https://github.com/EmanArsham) | Initial cleaning steps and EDA |
+| Emily Huisman | [EmilyHuisman](https://github.com/EmilyHuisman) |  |
 
 
 ## Project Highlights
