@@ -1,5 +1,5 @@
 
-## Project: Flavor Trends for Nestlé
+# Flavor Trends for Nestlé
 
 ## Project Snapshot
 
@@ -14,14 +14,10 @@
 
 ## Team Members
 
-| Name | GitHub | Contributions
+Name | GitHub | Contributions
 
-| Samiha Zaman | samihazaman | Sentiment analysis (BERT model) & visualization |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+- Samiha Zaman | samihazaman | Sentiment analysis (BERT model) & visualization
+- 
 
 ## Project Highlights
 
@@ -32,7 +28,7 @@
 
 ## Repository Structure
 
-- **Nestle.ipynb/**: Analysis and experiment notebook
+- **Nestle.ipynb**: Main project notebook
 - **requirements.txt**: Python dependencies
 - **Install.md**: Installation instructions 
 
