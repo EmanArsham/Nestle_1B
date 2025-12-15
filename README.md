@@ -20,7 +20,8 @@
 | Emily Huisman | [EmilyHuisman](https://github.com/EmilyHuisman) | Researching and Cleaning Dataset |
 | James Chen | [jameschen2004](https://github.com/jameschen2004) | Cleaning Dataset & Data Management |
 | Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment Analysis (BERT model) & Model Evaluation |
-| Alexis Geronimo | [alxxis](https://github.com/alxxis) | Sentiment Analysis (distilBERT model) & Model Evaluation |
+| Alexis Geronimo | [alxxis](https://github.com/alxxis) | Sentiment Analysis (DistilRoBERTa model) & Model Evaluation |
+| Yashwanth Alluri | [yashalluri](https://github.com/yashalluri/) | Summarized key takeaways & proposed next steps |
 
 ## Project Highlights
 
