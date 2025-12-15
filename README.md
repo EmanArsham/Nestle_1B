@@ -16,10 +16,10 @@
 
 | Name | GitHub | Contributions |
 |---|---|---|
-| Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment analysis (BERT model) & visualization |
 | Eman Arsham | [EmanArsham](https://github.com/EmanArsham) | Initial cleaning steps and EDA |
 | Emily Huisman | [EmilyHuisman](https://github.com/EmilyHuisman) | Researching and Cleaning Dataset |
 | James Chen | [jameschen2004](https://github.com/jameschen2004) | Cleaning Dataset & Data Management |
+| Samiha Zaman | [samihazaman](https://github.com/samihazaman) | Sentiment analysis (BERT model) & visualization |
 
 ## Project Highlights
 
